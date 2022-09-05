@@ -1,1 +1,13 @@
-# C-Pattern
+# Pattern
+
+## Aim:
+
+## Equipment Required:
+
+## Algorithm:
+
+## Program:
+
+## Output:
+
+## Result:
