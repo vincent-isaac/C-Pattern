@@ -3,7 +3,19 @@
 ## Aim: To write a C# program for a pascal's triangle.
 
 ## Algorithm:
-###Step 1: Start.
+
+###Step 1: 
+Start.
+
+###step 2:
+Get the user input for the triangle size.
+
+###step 3:
+Create a nested 'for loop', Outer loop for rows and inner for loop for printing values.
+
+###Step 4:
+
+
 ## Program:
 ```c#
 namespace program4;
@@ -36,4 +48,5 @@ namespace program4;
 
 ![c# ex3](https://user-images.githubusercontent.com/75234588/189466049-6aa61089-3c5d-4ca9-8531-a04a05b1a790.PNG)
 
-## Result: Thus the C# program to display for a pascal's triangle is executed successfully.
+## Result: 
+Thus the C# program to display for a pascal's triangle is executed successfully.
